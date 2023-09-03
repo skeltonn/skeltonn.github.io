@@ -1,18 +1,24 @@
 ---
-layout: page
-title: About
+layout: base
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hey, I'm Nathan.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a software engineer and technology enthusiast from St. Louis, Missouri, currently residing in Omaha, Nebraska. My childhood interest in building and creating all sorts of things has morphed into a career doing just that.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In high school, I chose software engineering to express that passion, leading me to earn a Bachelor's degree in Computer Science from Missouri University of Science and Technology.
 
+When I'm not immersed in code, you can find me enjoying the outdoors through cycling, hiking, or camping. I have a goal to visit every National Park, and I'm roughly a quarter of the way there.
 
-[jekyll-organization]: https://github.com/jekyll
+My adventures are commonly paired with a good book. Some of my recent recommendations:
+
+<ul>
+    <li>"The Second Mountian" by David Brooks</li>
+    <li>"The Power of Habit" by Charles Duhigg</li>
+</ul>
+
+A cherished tradition from my childhood: I'm a die-hard Cardinals baseball fan. My apologies to any Cubs fans I meet.
+
+If you share my passion for technology, love for exploration, or simply want to connect, feel free to reach out.
