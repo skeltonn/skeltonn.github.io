@@ -36,6 +36,11 @@ minima:
 
 show_excerpts: true
 
+collections:
+  projects:
+    output: true
+    sort_by: priority
+
 author:
   name: Nathan Skelton
   email: "nathan.hunter.skelton@gmail.com"

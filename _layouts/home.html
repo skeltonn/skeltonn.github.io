@@ -9,7 +9,7 @@ layout: base
 
   {{ content }}
 
-  {% assign posts = site.posts %}
+  {% assign posts = site.projects | sort:"priority" %}
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
