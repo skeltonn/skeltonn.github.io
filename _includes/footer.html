@@ -4,7 +4,7 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col">
+      <div style="width: 100%; text-align: center;">
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
@@ -15,9 +15,6 @@
           {%- endif %}
         </ul>
       {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
       </div>
     </div>
 
