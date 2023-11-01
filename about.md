@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![image tooltip here](/assets/me.jpg)
+![](/assets/me.jpg)
 
 # Hey, I'm Nathan.
 
