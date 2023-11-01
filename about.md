@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+![image tooltip here](/assets/me.jpg)
+
 # Hey, I'm Nathan.
 
 I'm a software engineer and technology enthusiast from St. Louis, Missouri, currently residing in Omaha, Nebraska. My childhood interest in building and creating all sorts of things has morphed into a career doing just that.
