@@ -33,7 +33,7 @@ The first is the data collection process. On a regular basis, GTFS realtime data
 
 The second process is one of static API response generation. Functionally, this process caches data for a fixed period for users. This runs perodically to commit new data to the hosted git repo, which triggeres a project rebuild through the hosting provider. The data observed on the website is static "cached" files. As a result, the UI can be hosted in "live" mode to debug and test against realtime data, while hosted for production without exposing an API to the world.
 
-This project would not be possible without the [GTFS specifications](https://gtfs.org/), and hosted dats sources like [asm.transitdocs.com](https://asm.transitdocs.com/). To those resources, I say thank you.
+This project would not be possible without the [GTFS specifications](https://gtfs.org/), and hosted data sources like [asm.transitdocs.com](https://asm.transitdocs.com/). To those resources, I say thank you.
 
 For the curious, the internal db is structured as so:
 
