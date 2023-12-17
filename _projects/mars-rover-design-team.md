@@ -18,7 +18,7 @@ I initially joined and developed software, collaborating with others, understand
 ![](/assets/mars-rover-design-team/DSC_6856.jpg)
 
 ### Software Architect
-Over time, additional software development required architectural considerations and a rigorous process for testing. I moved into an architect role to build a testing framework, implementng practices for isolating changes, and to conduct code reviews.
+Over time, additional software development required architectural considerations and a rigorous process for testing. I moved into an architect role to build a testing framework, implementing practices for isolating changes, and to conduct code reviews.
 
 ![](/assets/mars-rover-design-team/DSC_6940.JPG)
 
