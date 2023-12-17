@@ -11,8 +11,24 @@ For more information about the current team and mission, visit our website: [mar
 ### Software Development
 I initially joined and developed software, collaborating with others, understanding and improving the basestation and autonomy code. I then became the software lead, recruting and developing more members into software projects to improve and expand the rover's control systems.
 
+![](/assets/mars-rover-design-team/DSC_5036.jpg)
+
+![](/assets/mars-rover-design-team/DSC_6455.jpg)
+
+![](/assets/mars-rover-design-team/DSC_6856.jpg)
+
 ### Software Architect
 Over time, additional software development required architectural considerations and a rigorous process for testing. I moved into an architect role to build a testing framework, implementng practices for isolating changes, and to conduct code reviews.
 
+![](/assets/mars-rover-design-team/DSC_6940.JPG)
+
 ### CEO / President
 In my final year of college, I was the elected CEO of the team, leading our 50+ active member team through a turbulent Covid-19 school year (2020-2021). At the outset, we did not know if we would be on campus, or even be able to collaborate in person. While there ultimately was no competition, we still built a rover and ran a "mock" competition to put our members through the process to prepare for future years. I couldn't have been prouder.
+
+You can find our SAR (System Acceptance Review) [video submission for 2021's competition here](https://www.youtube.com/watch?v=XglROzh-cCE).
+
+![](/assets/mars-rover-design-team/DSC_4965.JPG)
+
+![](/assets/mars-rover-design-team/DSC_7177.JPG)
+
+![](/assets/mars-rover-design-team/DSC_5619.jpg)
