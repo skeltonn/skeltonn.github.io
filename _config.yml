@@ -31,8 +31,9 @@ plugins:
 minima:
   skin: solarized-light
   social_links:
-    - { platform: github,  user_url: "https://github.com/skeltonn" }
-    - { platform: linkedin,  user_url: "https://www.linkedin.com/in/nathaniel-skelton/" }
+    - { icon: github, url: "https://github.com/skeltonn" }
+    - { icon: linkedin, url: "https://www.linkedin.com/in/nathaniel-skelton/" }
+  hide_site_feed_link: true
 
 show_excerpts: true
 
