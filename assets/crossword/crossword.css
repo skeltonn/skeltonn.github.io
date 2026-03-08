@@ -78,3 +78,30 @@ input.done {
   margin: 0.3em;
   line-height: 1.6em;
 }
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  #puzzle-wrapper {
+    float: none;
+    width: 100%;
+    margin-right: 0;
+  }
+  #puzzle-clues {
+    float: none;
+    width: 100%;
+    margin-top: 20px;
+  }
+  table td {
+    width: 3em;
+    height: 3em;
+  }
+  td input {
+    font-size: 2em;
+  }
+  td span {
+    font-size: 0.6em;
+  }
+  #puzzle-clues li {
+    font-size: 1em;
+  }
+}
